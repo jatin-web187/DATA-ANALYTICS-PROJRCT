@@ -164,7 +164,7 @@ Visualization & Dashboard
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/T20-WorldCup-BestXI.git
+git clones:https://github.com/jatin-web187/DATA-ANALYTICS-PROJRCT
 ```
 
 ## Go to Project Directory
@@ -220,8 +220,11 @@ This project is licensed under the MIT License.
 
 JATIN
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
+- GitHub: https://github.com/jatin-web187
+  
+- LinkedIn: www.linkedin.com/in/jatinphogat
+
+
 
 ---
 
